@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esteemz
-- 👀 AWS
-- 🌱 
+- 👀 
+- 🌱 Always Learning more AWS
 - 📫 How to reach me: https://www.linkedin.com/in/andre-pardini-2b3898130/
 - My website https://blog.andrepardini.com 
 

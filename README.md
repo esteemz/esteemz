@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esteemz
-- 👀 I’m interested in AWS and Terraform
-- 🌱 Current Learning Path Terraform Associate -> AWS Sysops Associate -> Certified Kubernetes Administrator
+- 👀 AWS
+- 🌱 
 - 📫 How to reach me: https://www.linkedin.com/in/andre-pardini-2b3898130/
 - My website https://blog.andrepardini.com 
 

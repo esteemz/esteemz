@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @esteemz
-- 🌱 Always Learning more AWS
-- 📫 How to reach me: https://www.linkedin.com/in/andre-pardini4/
-- My website https://blog.andrepardini.com 
+
 
 <!---
 esteemz/esteemz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
